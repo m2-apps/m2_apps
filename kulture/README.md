@@ -8,7 +8,7 @@ kulture aggregates world data and statistics into a single page digest.
 
 ### Download on the Google Play Store
 
-This game is currently on available on the Google Play Store. You can find it [here](https://play.google.com/store/apps/details?id=com.M2Apps.kulture).
+This app is currently on available on the Google Play Store. You can find it [here](https://play.google.com/store/apps/details?id=com.m2apps.kulture).
 
 ### Privacy Policy
 
