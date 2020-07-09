@@ -4,7 +4,7 @@ M2 Apps develops Android apps and games available on the Google Play Store.
 
 ### Apps
 
-* [kulture](https://mmore21.github.io/m2_apps/kulture/) - 
+* [kulture](https://mmore21.github.io/m2_apps/kulture/)
 
 ### Games
 
